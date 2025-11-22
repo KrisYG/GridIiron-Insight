@@ -1,7 +1,14 @@
 
 const homeCard = () => {
   return (
-    <div>homeCard</div>
+    <div>
+      <div>
+
+      </div>
+      <div>
+
+      </div>
+    </div>
   )
 }
 
